@@ -6,7 +6,7 @@ const pink=document.getElementById('five')
 const silver=document.getElementById('six')
 
 red.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="#ff2626";
+    document.getElementById('box1').style.backgroundColor="#FF6347";
 })
 
 blue.addEventListener('click',function(e){
