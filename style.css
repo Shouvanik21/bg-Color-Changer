@@ -13,7 +13,7 @@
     
 }
 
-.one,.two,.three,.four,.five,.six{
+#one,#two,#three,#four,#five,#six{
     padding: 5px;
     margin: 10px;
 }
@@ -24,22 +24,22 @@ button{
     font-size: 25px;    
 }
 
-button.one{
+button#one{
     background-color: red;
 }
-button.two{
+button#two{
     background-color: blue;
 }
-button.three{
+button#three{
     background-color: green;
 }
-button.four{
+button#four{
     background-color: yellow;
 }
-button.five{
+button#five{
     background-color: pink;
 }
-button.six{
+button#six{
     background-color: silver;
 }
 
