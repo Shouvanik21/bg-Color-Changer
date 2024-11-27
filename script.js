@@ -6,25 +6,25 @@ const pink=document.getElementById('five')
 const silver=document.getElementById('six')
 
 red.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="red";
+    document.getElementById('box1').style.backgroundColor="#ff2626";
 })
 
 blue.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="blue";
+    document.getElementById('box1').style.backgroundColor="#00BFFF";
 })
 
 green.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="green";
+    document.getElementById('box1').style.backgroundColor="#7CFC00";
 })
 
 yellow.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="yellow";
+    document.getElementById('box1').style.backgroundColor="#FFD700";
 })
 
 pink.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="pink";
+    document.getElementById('box1').style.backgroundColor="#FF69B4";
 })
 
 silver.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="silver";
+    document.getElementById('box1').style.backgroundColor="#DCDCDC";
 })
