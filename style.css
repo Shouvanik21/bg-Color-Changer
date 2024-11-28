@@ -42,6 +42,13 @@ button#five{
     background-color: pink;
 }
 button#six{
-    background-color: silver;
+    background-color: Grey;
+}
+
+@media (max-width: 768px) {
+    #box1 {
+      height: 1080px;
+      width: 750px;
+    }
 }
 
