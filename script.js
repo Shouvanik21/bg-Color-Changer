@@ -26,5 +26,5 @@ pink.addEventListener('click',function(e){
 })
 
 silver.addEventListener('click',function(e){
-    document.getElementById('box1').style.backgroundColor="#DCDCDC";
+    document.getElementById('box1').style.backgroundColor="#A9A9A9";
 })

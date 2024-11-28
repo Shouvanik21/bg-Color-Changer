@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: #4b4949;
+    font-family: "Roboto",sans-serif ;
 }
 
 #box1{
@@ -42,6 +43,13 @@ button#five{
     background-color: pink;
 }
 button#six{
-    background-color: silver;
+    background-color: Grey;
+}
+
+@media (max-width: 768px) {
+    #box1 {
+      height: 1080px;
+      width: 750px;
+    }
 }
 
